@@ -1,0 +1,7 @@
+{
+  "name": "calculoIMC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
