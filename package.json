@@ -1,8 +1,8 @@
 {
-  "name": "calculoIMC",
+  "name": "calculoimc",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Thiago Lopes",
+  "homepage": "https://thiagolopesdev.com.br",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
